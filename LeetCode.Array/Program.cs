@@ -1,4 +1,4 @@
 ﻿using LeetCode.Array;
 
 
-Console.WriteLine(PalindromeNumber.IsPalindrome(121));
+Console.WriteLine(Roman.RomainToInt("MCMXCIV"));
