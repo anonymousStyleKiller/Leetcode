@@ -1,4 +1,4 @@
 ﻿using LeetCode.Array;
 
 
-Console.WriteLine(Roman.RomainToInt("MCMXCIV"));
+Console.WriteLine(MissingNumber.Find(new[]{2}));
