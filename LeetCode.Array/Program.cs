@@ -1,4 +1,4 @@
 ﻿using LeetCode.Array;
 
 
-Console.WriteLine(SumOfArray.RunningSum(new[]{3,1,2,10,1}));
+Console.WriteLine(PivotIndex.Find(new[]{3,1,2,10,1}));
