@@ -1,4 +1,4 @@
 ﻿using LeetCode.Array;
 
 
-Console.WriteLine(MissingNumber.Find(new[]{2}));
+Console.WriteLine(SumOfArray.RunningSum(new[]{3,1,2,10,1}));
