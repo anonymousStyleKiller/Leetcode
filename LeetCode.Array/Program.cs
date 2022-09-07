@@ -1,4 +1,4 @@
 ﻿using LeetCode.Array;
 
 
-Console.WriteLine(MissingNumber.Find(new[]{2}));
+Console.WriteLine(IsIsomorphic.Check("foo", "bar"));
