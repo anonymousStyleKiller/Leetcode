@@ -1,4 +1,4 @@
 ﻿using LeetCode.Array;
 
 
-Console.WriteLine(IsIsomorphic.Check("foo", "bar"));
+Console.WriteLine(IsSubsequence.Compare("ace", "aec"));
