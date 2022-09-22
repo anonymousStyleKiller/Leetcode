@@ -2,14 +2,14 @@
 
 public class Node
 {
-    public Node Value { get; set; }
+    public object Value { get; set; }
     public Node Left { get; set; }
     public Node Right { get; set; }
     
-    public Node(Node value)
+    public Node(object value)
     {
+        Value = value;
         Left = null;
         Right = null;
-        Value = value;
     }
 }
