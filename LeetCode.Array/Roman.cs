@@ -1,4 +1,7 @@
-﻿namespace LeetCode.Array;
+﻿using System.Collections.Generic;
+
+namespace LeetCode.Array;
+
 
 public static class Roman
 {

@@ -7,7 +7,7 @@ public static class PalindromeNumber
     public static bool IsPalindrome(int x)
     {
         if (x == 0) return true;
-        
+            
         var firstNumberToString = new StringBuilder(x);
         var secondNumberToString = new StringBuilder(string.Empty);
         while (x >= 1)

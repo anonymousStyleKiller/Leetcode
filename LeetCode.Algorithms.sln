@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Array", "LeetCode.Array\LeetCode.Array.csproj", "{79979B21-1075-49F2-BF1E-42185F6D6D29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LL", "LL\LL.csproj", "{D3678D6A-86DC-493F-8CF2-A4DC0C0C8493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT", "BT\BT.csproj", "{9C882B31-60C4-4FE2-9E77-615B4D89D2C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{79979B21-1075-49F2-BF1E-42185F6D6D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79979B21-1075-49F2-BF1E-42185F6D6D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79979B21-1075-49F2-BF1E-42185F6D6D29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3678D6A-86DC-493F-8CF2-A4DC0C0C8493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3678D6A-86DC-493F-8CF2-A4DC0C0C8493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3678D6A-86DC-493F-8CF2-A4DC0C0C8493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3678D6A-86DC-493F-8CF2-A4DC0C0C8493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C882B31-60C4-4FE2-9E77-615B4D89D2C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C882B31-60C4-4FE2-9E77-615B4D89D2C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C882B31-60C4-4FE2-9E77-615B4D89D2C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C882B31-60C4-4FE2-9E77-615B4D89D2C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
