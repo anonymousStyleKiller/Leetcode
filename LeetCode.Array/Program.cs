@@ -1,17 +1,17 @@
-﻿
-using BT;
+﻿using BinaryTree;
+using LinkedList;
 
-var a = new TreeNode<string>("A");
-var b = new TreeNode<string>("B");
-var c = new TreeNode<string>("C");
-var d = new TreeNode<string>("D");
-var f = new TreeNode<string>("F");
+var a = new Node('a');
+var b = new Node('a');
+var c = new Node('c');
+var d = new Node('d');
+var e = new Node('e');
+var f = new Node('f');
 
-a.left = b;
-a.right = c;
-b.left = d;
-c.right = f;
+a.Left = b;
+a.Right = c;
+b.Left = d;
+b.Right = e;
+c.Right = f;
 
-var st = new Deth<string>();
-st.DepthFirstValue(a);
-
+depthFirstValues.FirstValues(a);
