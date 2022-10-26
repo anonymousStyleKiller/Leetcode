@@ -1,17 +1,7 @@
 ﻿using BinaryTree;
+using LeetCode.Array;
 using LinkedList;
 
-var a = new Node('a');
-var b = new Node('a');
-var c = new Node('c');
-var d = new Node('d');
-var e = new Node('e');
-var f = new Node('f');
+var res = BinarySearch.Search(new[] { 1, 2, 3, 4, 5, 6, 7, 8,9 }, 3);
+Console.WriteLine(res);
 
-a.Left = b;
-a.Right = c;
-b.Left = d;
-b.Right = e;
-c.Right = f;
-
-depthFirstValues.FirstValues(a);
